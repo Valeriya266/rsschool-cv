@@ -5,7 +5,6 @@
 * discord: Valeriya266#3271
 * tg: @freeunco
 
-
 *Junior front-end developer, 27 y.o., from Minsk, have degree in pharmacy, now working in pharmaceutical filed*  
 
 ### My skills:
