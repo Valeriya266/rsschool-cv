@@ -21,7 +21,7 @@
 
 ### Experience/Projects:
 
-[Link to project "CV"](https://../).
+[Link to project "CV"] (https://github.com/Valeriya266/rsschool-cv)
 
 ### Education
 * BSU, chemical faqulty
