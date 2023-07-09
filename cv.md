@@ -16,7 +16,7 @@
 * Redux
 * GitHub
 
-### Exaple of cod:
+### Exaple of code:
 
 ### Experience/Projects:
 
