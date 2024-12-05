@@ -1,6 +1,7 @@
 ## Valeriya Stoyan
 ### Cotacts:
 * github: https://github.com/Valeriya266
+* phone: +375 44 714 16 11
 * email: valeriyastoyan26@gmail.com
 * tg: @freeunco
 
