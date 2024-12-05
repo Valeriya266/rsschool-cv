@@ -40,6 +40,8 @@ html {
 
 .nav-list {
     list-style: none;
+    display: flex;
+    flex-wrap: wrap;
     }  
 
 .nav-link {
