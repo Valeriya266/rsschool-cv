@@ -5,7 +5,7 @@
 * email: valeriyastoyan26@gmail.com
 * tg: @freeunco
 
-*I am an aspiring Frontend Developer specializing in JavaScript and React.js, seeking my first professional role in the industry. I have honed my skills by completing numerous challenges on Codewars, several comprehensive courses on platforms like Udemy, and by developing multiple projects hosted on GitHub. My self-driven learning has equipped me with a solid foundation in modern web technologies.*
+*I am an aspiring Frontend Developer specializing in JavaScript and React.js, seeking my professional role in the industry. I have honed my skills by completing numerous challenges on Codewars, several comprehensive courses on platforms like Udemy, and by developing multiple projects hosted on GitHub. My self-driven learning has equipped me with a solid foundation in modern web technologies.*
 
 *Transitioning from an career in  international pharmaceautical company, I have gained valuable experience in project management through coordinating  processes in drug registration. This role upgrade my teamwork abilities and required effective communication in English due to the international work process.* 
 
